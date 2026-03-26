@@ -73,5 +73,5 @@ This architecture was intentionally kept simple to make feature learning easier 
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repository-link>
+git clone <https://github.com/ao25aaf/Visualizing-Feature-Learning-in-CNNs/blob/main/README.md>
 cd visualising-feature-learning-in-cnns
