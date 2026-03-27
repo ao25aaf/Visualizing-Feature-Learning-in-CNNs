@@ -16,11 +16,11 @@ By applying the same CNN architecture to both datasets, this project investigate
 Rather than covering all aspects of CNNs, this project specifically examines how feature maps change across layers and how these internal representations differ between simple and complex datasets.
 
 ## Repository Contents
-- `notebook/visualising_feature_learning_in_cnns.ipynb` — main Jupyter notebook
-- `tutorial/tutorial.pdf` — final tutorial document
-- `images/` — saved sample images and feature map visualisations
-- `requirements.txt` — required Python packages
-- `LICENSE` — repository licence
+- `notebook/visualising_feature_learning_in_cnns.ipynb`: main Jupyter notebook
+- `tutorial/tutorial.pdf`: final tutorial document
+- `images/`: saved sample images and feature map visualisations
+- `requirements.txt`: required Python packages
+- `LICENSE`: repository licence
 
 ## Datasets Used
 
